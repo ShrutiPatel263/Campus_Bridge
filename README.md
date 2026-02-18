@@ -3,7 +3,7 @@
 
 CampusBridge is a **production-ready full-stack web platform** built to help students prepare for campus placements using **real interview experiences shared by placed seniors** — not guesswork, not random resources.
 
-🚀 **Live Product**: https://campus-bridge-vgec.vercel.app  
+🚀 **Live Product**: https://campus-bridge-one.vercel.app  
 👥 **10+ active real users and growing**
 
 ---
